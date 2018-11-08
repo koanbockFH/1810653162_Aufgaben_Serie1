@@ -1,4 +1,4 @@
-package ac.at.fhkufstein;
+package fhkufstein;
 
 public class NewClass {
 

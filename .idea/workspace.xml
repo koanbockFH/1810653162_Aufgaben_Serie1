@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaae7875-d752-4aa7-8e1b-3cf9b3b59b62" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ac/at/fhkufstein/NewClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ac/at/fhkufstein/NewClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aufgabe3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ac/at/fhkufstein/NewClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fhkufstein/NewClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,22 +22,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="279" />
+          <entry key="java" value="385" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="279" />
+          <entry key="JAVA" value="385" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -53,11 +53,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ac/at/fhkufstein/NewClass.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fhkufstein/NewClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Aufgabe3/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -79,6 +88,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/ac/at/fhkufstein/NewClass.java" />
+        <option value="$PROJECT_DIR$/src/fhkufstein/NewClass.java" />
+        <option value="$PROJECT_DIR$/src/Aufgabe3/Main.java" />
       </list>
     </option>
   </component>
@@ -124,7 +135,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541679788583" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541680117838" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -139,7 +150,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NewClass">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe3.Main" />
+      <module name="1810653162_Aufgaben_Serie1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aufgabe3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="1810653162_Aufgaben_Serie1" />
@@ -151,11 +175,11 @@
       </method>
     </configuration>
     <configuration name="NewClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ac.at.fhkufstein.NewClass" />
+      <option name="MAIN_CLASS_NAME" value="fhkufstein.NewClass" />
       <module name="1810653162_Aufgaben_Serie1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ac.at.fhkufstein.*" />
+          <option name="PATTERN" value="fhkufstein.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +190,13 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.NewClass" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NewClass" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.NewClass" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -184,12 +210,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541679470717</updated>
-      <workItem from="1541679472264" duration="429000" />
+      <workItem from="1541679472264" duration="629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="429000" />
+    <option name="totallyTimeSpent" value="629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -239,10 +265,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ac/at/fhkufstein/NewClass.java">
+    <entry file="file://$PROJECT_DIR$/src/fhkufstein/NewClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aufgabe3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
